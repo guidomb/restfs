@@ -1,0 +1,12 @@
+{
+  "name": "restfs",
+  "version": "0.1.3",
+  "description": "",
+  "dependencies": {
+    "express"     : "4.x",
+    "body-parser" : "*",
+    "mime"        : "*",
+    "bluebird"    : "*",
+    "curry"       : "*"
+  }
+}
